@@ -1,0 +1,36 @@
+.egg img{
+    image-rendering: optimizeQuality;
+    width: 150px;
+    height: 150px;
+    padding: 1.5%;
+    padding-left: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.gull3{
+    font-size: 20px;
+    color: whitesmoke;
+    background-color: black;
+    padding: 1.5%;
+    margin: 1%;
+    border: 0.5%;
+    border-style: solid;
+    border-color: white;
+    width: 32%;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+}
+.gull4{
+    font-size: 20px;
+    color: whitesmoke;
+    background-color: black;
+    padding: 1.5%;
+    margin: 1%;
+    border: 1%;
+    border-style: solid;
+    border-color: white;
+    width: 32%;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+}
+

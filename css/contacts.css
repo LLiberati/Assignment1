@@ -1,0 +1,18 @@
+.box{
+    
+    font-size: 10px;
+    color: whitesmoke;
+    background-color: rgb(88, 87, 87);
+    padding: 1.5%;
+    margin: 1%;
+    border: 0.2%;
+    border-style: solid;
+    border-color: white;
+    width: 32.5%;
+    font-family: 'Inconsolata', monospace;
+    text-align: left;
+    
+}
+    
+
+
